@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🍽️ Digital Menu - Expressoft
 
 This project is a simplified **Digital Menu App** built with **ReactJS**. It's meant to simulate a food ordering interface for a restaurant. This version is provided as a **starter template** for candidates undergoing front-end technical evaluation.
@@ -112,3 +113,6 @@ Please provide:
 - Keep it modular, readable, and maintainable.
 
 Good luck! 🚀
+=======
+# digital-menu-task
+>>>>>>> 46570cd2daa5556a23bb7b93bc8077c23040f855
